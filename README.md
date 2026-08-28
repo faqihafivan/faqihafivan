@@ -3,15 +3,23 @@
 Web Developer from Indonesia passionate about building web applications using Laravel, PHP, and JavaScript.
 
 **Tech Stack**
+
 -Laravel
+
 -PHP
+
 -MySQL
+
 -JavaScript
+
 -Google Apps Script
 
 **Current Focus**
+
 -Education Management Systems
+
 -Dashboard Development
+
 -Machine Learning for SDN Security
 
 <!--
