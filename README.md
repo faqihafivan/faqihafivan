@@ -2,23 +2,24 @@
 
 Web Developer from Indonesia passionate about building web applications using Laravel, PHP, and JavaScript.
 
-**Tech Stack**  -Laravel
+**Tech Stack**  
+  -Laravel
 
--PHP
+  -PHP
 
--MySQL
+  -MySQL
 
--JavaScript
+  -JavaScript
 
--Google Apps Script
+  -Google Apps Script
 
 **Current Focus**
 
--Education Management Systems
+  -Education Management Systems
 
--Dashboard Development
+  -Dashboard Development
 
--Machine Learning for SDN Security
+  -Machine Learning for SDN Security
 
 <!--
 **faqihafivan/faqihafivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
