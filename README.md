@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hi, I'm Faqih 👋
+
+Web Developer from Indonesia passionate about building web applications using Laravel, PHP, and JavaScript.
+
+Tech Stack
+
+Laravel
+
+PHP
+
+MySQL
+
+JavaScript
+
+Google Apps Script
+
+Current Focus
+
+Education Management Systems
+
+Dashboard Development
+
+Machine Learning for SDN Security
 
 <!--
 **faqihafivan/faqihafivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
